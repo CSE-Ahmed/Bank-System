@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Global Helpers.obj",
+            "outputs": [
+                "x64\\Debug\\Global Helpers.h.obj.dt.module.json",
+                "x64\\Debug\\Global Helpers.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
